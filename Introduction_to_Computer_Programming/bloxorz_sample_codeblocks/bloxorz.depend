@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1194961774 source:c:\users\htchen\desktop\i2p12\lecture_code\bloxorz_sample_codeblocks\console_draw.c
+	"console_draw.h"
+
+1197186932 c:\users\htchen\desktop\i2p12\lecture_code\bloxorz_sample_codeblocks\console_draw.h
+	<windows.h>
+
+1194969236 source:c:\users\htchen\desktop\i2p12\lecture_code\bloxorz_sample_codeblocks\kb_input.c
+	"kb_input.h"
+
+1194969254 c:\users\htchen\desktop\i2p12\lecture_code\bloxorz_sample_codeblocks\kb_input.h
+	<windows.h>
+
+1353645733 source:c:\users\htchen\desktop\i2p12\lecture_code\bloxorz_sample_codeblocks\bloxorz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+	"kb_input.h"
+
+1353645734 source:d:\dropbox\dropbox\courses\i2p\lecture_code\bloxorz_sample_codeblocks\bloxorz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+	"kb_input.h"
+
+1197186932 d:\dropbox\dropbox\courses\i2p\lecture_code\bloxorz_sample_codeblocks\console_draw.h
+	<windows.h>
+
+1194969254 d:\dropbox\dropbox\courses\i2p\lecture_code\bloxorz_sample_codeblocks\kb_input.h
+	<windows.h>
+
+1194961774 source:d:\dropbox\dropbox\courses\i2p\lecture_code\bloxorz_sample_codeblocks\console_draw.c
+	"console_draw.h"
+
+1194969236 source:d:\dropbox\dropbox\courses\i2p\lecture_code\bloxorz_sample_codeblocks\kb_input.c
+	"kb_input.h"
+
+1353645734 source:c:\users\htchen\desktop\i2p\bloxorz_sample_codeblocks\bloxorz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+	"kb_input.h"
+
+1197186932 c:\users\htchen\desktop\i2p\bloxorz_sample_codeblocks\console_draw.h
+	<windows.h>
+
+1194969254 c:\users\htchen\desktop\i2p\bloxorz_sample_codeblocks\kb_input.h
+	<windows.h>
+
+1194961774 source:c:\users\htchen\desktop\i2p\bloxorz_sample_codeblocks\console_draw.c
+	"console_draw.h"
+
+1194969236 source:c:\users\htchen\desktop\i2p\bloxorz_sample_codeblocks\kb_input.c
+	"kb_input.h"
+
+1414959894 source:c:\users\htchen\downloads\bloxorz_sample_codeblocks\bloxorz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw.h"
+	"kb_input.h"
+
+1197186932 c:\users\htchen\downloads\bloxorz_sample_codeblocks\console_draw.h
+	<windows.h>
+
+1194969254 c:\users\htchen\downloads\bloxorz_sample_codeblocks\kb_input.h
+	<windows.h>
+
+1194961774 source:c:\users\htchen\downloads\bloxorz_sample_codeblocks\console_draw.c
+	"console_draw.h"
+
+1414959891 source:c:\users\htchen\downloads\bloxorz_sample_codeblocks\kb_input.c
+	"kb_input.h"
+
